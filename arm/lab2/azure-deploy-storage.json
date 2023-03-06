@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccounts_name": {
-            "defaultValue": "iferrada08LabStorage",
+            "defaultValue": "iferrada",
             "type": "String"
         }
     },
