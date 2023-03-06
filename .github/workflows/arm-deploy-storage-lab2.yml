@@ -3,7 +3,7 @@ name: Lab2 ARM-Template Deploy Storage
 on: workflow_dispatch
 
 env:
-  AZURERG: iferrada08Lab1
+  AZURERG: iferrada08Lab2
   AZUREREGION: eastus
 
 jobs:
